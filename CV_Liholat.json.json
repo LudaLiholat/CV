@@ -1,0 +1,48 @@
+{
+   "Name":"Ludmila",
+   "LastName":"Liholat",
+   "Birthday":"17.07.1990",
+   "Gender":"Female",
+   "Country":"Belarus",
+   "PhoneNumber":"+375447838601",
+   "Telegram":"@LudmilaLiholat",
+   "Mail":"camelluda@mail.ru",
+   "JobTitle":"Junior QA Engineer",
+   "Work experience":null,
+   "Education":[
+      {
+         "University":"Belarusian National Technical University ",
+         "Qualification":"Engineer-economist",
+         "Graduationdate":"2008"
+      }
+   ],
+   "CoursesAndCertificates":[
+      {
+         "Academy":"Academy Belhard",
+         "Certificate":"Software Testing Engineer.BasicLevel",
+         "Graduationdate":"2024"
+      },
+      {
+         "Academy":"Academy Belhard",
+         "Certificate":"Software testing.Professional level",
+         "Graduationdate":"2024"
+      }
+   ],
+   "Skills":[
+      "SQL",
+      "Git",
+      "Postman",
+      "JMeter",
+      "TestLink"
+   ],
+   "Tools":[
+      "Case",
+      "Checklist",
+      "BugReport"
+   ],
+   "Languages":[
+      {
+         "English":"Elementary"
+      }
+   ]
+}
