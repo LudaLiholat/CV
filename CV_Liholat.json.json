@@ -29,16 +29,17 @@
       }
    ],
    "Skills":[
+      "Case",
+      "Checklist",
+      "BugReport"
+   ],
+   "Tools":[
       "SQL",
       "Git",
       "Postman",
       "JMeter",
-      "TestLink"
-   ],
-   "Tools":[
-      "Case",
-      "Checklist",
-      "BugReport"
+      "TestLink",
+      "DevTools"
    ],
    "Languages":[
       {
